@@ -13,4 +13,4 @@
 
 ---
 
-[![argument와 parameter의 차이](https://img.shields.io/badge/argument와 parameter의 차이-E8E8E8.svg?style=for-the-badge&logo=argument와 parameter의 차이&logoColor=white)](https://velog.io/@hyungminjin/%EA%B0%9C%EB%85%90-argument%EC%99%80-parameter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+[![argument/parameter](https://img.shields.io/badge/argument/parameter-E8E8E8.svg?style=for-the-badge&logo=argument/parameter&logoColor=white)](https://velog.io/@hyungminjin/%EA%B0%9C%EB%85%90-argument%EC%99%80-parameter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
