@@ -1,6 +1,6 @@
 # 🌟 Learned #22
 
-# 🔶캐시(Cache)
+# 🔶HTTP
 
 ## 1. HTTP?
 
