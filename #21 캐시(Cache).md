@@ -32,10 +32,10 @@
 
 💟 참고자료
 <br>
-[![캐시 장단점](https://img.shields.io/badge/캐시 장단점-E8E8E8.svg?style=for-the-badge&logo=캐시 장단점&logoColor=white)](https://yanacoding.tistory.com/entry/CS-%EC%BA%90%EC%8B%9CCache%EB%9E%80)
+[![캐시_장단점](https://img.shields.io/badge/캐시_장단점-E8E8E8.svg?style=for-the-badge&logo=캐시_장단점&logoColor=white)](https://yanacoding.tistory.com/entry/CS-%EC%BA%90%EC%8B%9CCache%EB%9E%80)
 <br>
-[![캐시 사용 영역](https://img.shields.io/badge/캐시 사용 영역-E8E8E8.svg?style=for-the-badge&logo=캐시 사용 영역&logoColor=white)](https://hpotter1993.tistory.com/14)
+[![캐시_사용_영역](https://img.shields.io/badge/캐시_사용_영역-E8E8E8.svg?style=for-the-badge&logo=캐시_사용_영역&logoColor=white)](https://hpotter1993.tistory.com/14)
 <br>
-[![캐시 활용](https://img.shields.io/badge/캐시 활용-E8E8E8.svg?style=for-the-badge&logo=캐시 활용&logoColor=white)](https://mangkyu.tistory.com/69)
+[![캐시_활용](https://img.shields.io/badge/캐시_활용-E8E8E8.svg?style=for-the-badge&logo=캐시_활용&logoColor=white)](https://mangkyu.tistory.com/69)
 <br>
-[![캐시 영역](https://img.shields.io/badge/캐시 영역-E8E8E8.svg?style=for-the-badge&logo=캐시 영역&logoColor=white)](https://hpotter1993.tistory.com/14)
+[![캐시_영역](https://img.shields.io/badge/캐시_영역-E8E8E8.svg?style=for-the-badge&logo=캐시_영역&logoColor=white)](https://hpotter1993.tistory.com/14)
