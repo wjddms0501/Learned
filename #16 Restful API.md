@@ -70,6 +70,6 @@ REST API의 경우 정해진 표준이 없기 때문에 다양한 부분에서 �
 
 💟 참고자료
 <br>
-[![Restful API](https://img.shields.io/badge/Restful API-E8E8E8.svg?style=for-the-badge&logo=Restful API&logoColor=white)](https://aws.amazon.com/ko/what-is/restful-api/)
+[![Restful_API](https://img.shields.io/badge/Restful_API-E8E8E8.svg?style=for-the-badge&logo=Restful_API&logoColor=white)](https://aws.amazon.com/ko/what-is/restful-api/)
 <br>
-[![Non-RestFul API](https://img.shields.io/badge/Non-RestFul API-E8E8E8.svg?style=for-the-badge&logo=Non-RestFul API&logoColor=white)](https://wallees.wordpress.com/2018/04/19/rest-api-restful/)
+[![Non-RestFul_API](https://img.shields.io/badge/Non-RestFul_API-E8E8E8.svg?style=for-the-badge&logo=Non-RestFul_API&logoColor=white)](https://wallees.wordpress.com/2018/04/19/rest-api-restful/)
