@@ -16,4 +16,4 @@ HTTP 메시지 타입은 두 가지가 있습니다.
 
 💟 참고자료
 <br>
-[![HTTP 메세지 구조](https://img.shields.io/badge/HTTP 메세지 구조-E8E8E8.svg?style=for-the-badge&logo=HTTP 메세지 구조&logoColor=white)](https://hahahoho5915.tistory.com/62)
+[![HTTP_메세지_구조](https://img.shields.io/badge/HTTP_메세지_구조-E8E8E8.svg?style=for-the-badge&logo=HTTP_메세지_구조&logoColor=white)](https://hahahoho5915.tistory.com/62)
