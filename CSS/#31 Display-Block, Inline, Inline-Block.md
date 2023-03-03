@@ -11,14 +11,11 @@ display 속성 – block, inline 특징 및 차이점
 
 ## 블록 요소 (block elements)
 
-<p style="background-color:pink">block</p>
-<p style="background-color:yellow">block</p>
-<p style="background-color:orange">block</p>
-<p style="background-color:yellowgreen">block</p>
+![image](https://user-images.githubusercontent.com/118269129/222784996-3aa78263-b644-4ae2-adf3-ca2216b22f62.png)
 
 ## 인라인 요소 (inline elements)
 
-<span style="background-color:pink">block</span><span style="background-color:yellow">block</span><span style="background-color:orange">block</span><span style="background-color:yellowgreen">block</span>
+![image](https://user-images.githubusercontent.com/118269129/222785116-647599ce-3f27-476b-999c-ae24025112c4.png)
 
 ---
 
