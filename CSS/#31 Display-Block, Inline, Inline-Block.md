@@ -49,11 +49,7 @@ p는 <p class="colored"> block 요소 　　　　　　　　　　　　　　
 
 **결과**
 
-<div style="background-color:#dff9fb">
-span은 <span style="background-color:pink"> inline 요소 </span>입니다. inline 요소의 특성을 나타내기 위해 요소 배경을 색칠했습니다.
-p는
-<p style="background-color:pink">block 요소</p>입니다. block 요소의 특성을 나타내기 위해 요소 배경을 색칠했습니다.  
-</div>
+![image](https://user-images.githubusercontent.com/118269129/222785280-2083afac-aeef-4b2c-a538-80f7b24d6b5d.png)
 span 태그는 줄 바꿈 없이 배치되며 내부 텍스트 사이즈만큼의 너비를 차지한다. 반면 block 속성인 p 태그는 새로운 줄에 배치되었고 한 줄만큼의 너비를 차지한다.
 
 ---
@@ -99,22 +95,7 @@ div, p 등 block 요소를 한 줄에 여러 개 배치하고 싶을 때 자주 
 
 적용 전 모습
 
-<div style="border: solid 1px gray;
-  			padding: 10px;
-            background-color:#dff9fb">
-<div style="width: 80px;
-  			height: 80px;
-            border: solid 1px gray;
-            background-color: pink;"> children div 1 </div>
-<div style="width: 80px;
-  			height: 80px;
-            border: solid 1px gray;
-            background-color: pink;"> children div 2 </div>
-<div style="width: 80px;
-  			height: 80px;
-            border: solid 1px gray;
-            background-color: pink;"> children div 3 </div>
-</div>
+![image](https://user-images.githubusercontent.com/118269129/222785389-099f2cce-80ce-46c7-b0da-f210b5c420ac.png)
 <br>
 
 <p style="font-size:25px;
@@ -144,25 +125,7 @@ div, p 등 block 요소를 한 줄에 여러 개 배치하고 싶을 때 자주 
 
 적용 후 모습
 
-<div style="border: solid 1px gray;
-  			padding: 10px;
-            background-color:#dff9fb">
-<div style="display:inline-block;
-  width: 80px;
-  height: 80px;
-  border: solid 1px gray;
-  background-color: pink;"> children div 1 </div>
-<div style="display:inline-block;
-  width: 80px;
-  height: 80px;
-  border: solid 1px gray;
-  background-color: pink;"> children div 2 </div>
-<div style="display:inline-block;
-  width: 80px;
-  height: 80px;
-  border: solid 1px gray;
-  background-color: pink;"> children div 3 </div>
-</div>
+![image](https://user-images.githubusercontent.com/118269129/222785475-f01ebc62-f9ec-4eb7-898c-c3770d04fa86.png)
 
 ---
 
