@@ -1,6 +1,15 @@
 # 🌟 Learned #24
 
-# 🔶브라우저 저장소
+# 🔶 useRef
+
+> `useRef`는 저장공간 또는 DOM요소에 접근하기 위해 사용되는 React Hook입니다.
+> 여기서 Ref는 reference, 즉 **참조**를 뜻합니다.
+
+우리가 자바스크립트를 사용 할 때에는, 우리가 특정 DOM 을 선택하기 위해서 querySelector 등의 함수를 사용합니다.
+
+React를 사용하는 프로젝트에서도 가끔씩 DOM 을 직접 선택해야 하는 상황이 필요합니다. 그럴때 우리는 useRef라는 React Hook을 사용합니다.
+
+useRef로 관리되는 값은 값이 변환되어도 리렌더링 되지 않습니다.
 
 ## useRef가 필요한 상황
 
@@ -161,4 +170,7 @@ Ref의 바람직한 사용 사례는 다음과 같습니다.
 
 💟 참고자료
 <br>
-[![useRef](https://img.shields.io/badge/useRef-E8E8E8.svg?style=for-the-badge&logo=useRef&logoColor=white)](https://yoonjong-park.tistory.com/entry/React-useRef-%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80)
+[![useRef_1](https://img.shields.io/badge/useRef-E8E8E8.svg?style=for-the-badge&logo=useRef&logoColor=white)](https://yoonjong-park.tistory.com/entry/React-useRef-%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0
+%80)
+<br>
+[![useRef_2](https://img.shields.io/badge/useRef_2-E8E8E8.svg?style=for-the-badge&logo=useRef_2&logoColor=white)](https://velog.io/@jinyoung985/React-useRef%EB%9E%80)
