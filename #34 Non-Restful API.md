@@ -1,5 +1,5 @@
 # 🌟 Learned #34
-## ## 🔶 Restful API & Non-Restful API
+## 🔶 Restful API & Non-Restful API
 > `Restful API`란?
 두 컴퓨터 시스템이 인터넷을 통해 정보를 안전하게 교환하기 위해 사용하는 인터페이스
 
