@@ -170,7 +170,6 @@ Ref의 바람직한 사용 사례는 다음과 같습니다.
 
 💟 참고자료
 <br>
-[![useRef_1](https://img.shields.io/badge/useRef-E8E8E8.svg?style=for-the-badge&logo=useRef&logoColor=white)](https://yoonjong-park.tistory.com/entry/React-useRef-%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0
-%80)
+[![useRef_1](https://img.shields.io/badge/useRef-E8E8E8.svg?style=for-the-badge&logo=useRef&logoColor=white)](https://yoonjong-park.tistory.com/entry/React-useRef-%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80)
 <br>
 [![useRef_2](https://img.shields.io/badge/useRef_2-E8E8E8.svg?style=for-the-badge&logo=useRef_2&logoColor=white)](https://velog.io/@jinyoung985/React-useRef%EB%9E%80)
