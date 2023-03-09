@@ -75,4 +75,4 @@ ISN (Initial sequence numbers) - Client와 Server가 각각 처음으로 생성�
 <br>
 [![TCP_3_Way_Handshake](https://img.shields.io/badge/TCP_3_Way_Handshake-E8E8E8.svg?style=for-the-badge&logo=TCP_3_Way_Handshake&logoColor=white)](https://seongonion.tistory.com/74)
 <br>
-[![TCP_3_Way_Handshake 개념](https://img.shields.io/badge/TCP_3_Way_Handshake 개념-E8E8E8.svg?style=for-the-badge&logo=TCP_3_Way_Handshake 개념&logoColor=white)](https://velog.io/@averycode/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCPUDP%EC%99%80-3-Way-Handshake4-Way-Handshake)
+[![TCP_3_Way_Handshake_개념](https://img.shields.io/badge/TCP_3_Way_Handshake_개념-E8E8E8.svg?style=for-the-badge&logo=TCP_3_Way_Handshake_개념&logoColor=white)](https://velog.io/@averycode/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCPUDP%EC%99%80-3-Way-Handshake4-Way-Handshake)
