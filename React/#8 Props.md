@@ -170,7 +170,7 @@ function ComponentNeedingProps({ content }) {
 
 💟 참고자료
 <br>
-[![Prop Drilling](https://img.shields.io/badge/Prop Drilling-E8E8E8.svg?style=for-the-badge&logo=Prop Drilling&logoColor=white)](https://slog.website/post/13)
+[![Prop_Drilling](https://img.shields.io/badge/Prop_Drilling-E8E8E8.svg?style=for-the-badge&logo=Prop_Drilling&logoColor=white)](https://slog.website/post/13)
 <br>
 [![PropTypes](https://img.shields.io/badge/PropTypes-E8E8E8.svg?style=for-the-badge&logo=PropTypes&logoColor=white)](https://ko.reactjs.org/docs/typechecking-with-proptypes.html#gatsby-focus-wrapper)
 <br>
